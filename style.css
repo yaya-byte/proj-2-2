@@ -1,0 +1,65 @@
+body{
+    background-color: #2C2B3D;
+    font-family: 'JetBrains Mono', monospace;
+    margin: 10px auto 60px;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 90px;
+    gap: 40px;
+    color: aliceblue;
+}
+
+header img{
+    margin: 20px 0px 0px 90px;
+}
+
+main{
+
+    align-items: center; 
+    display: flex;
+    margin: 100px 90px 90px 90px;
+
+}
+.text{
+
+    text-align: center;
+    color: aliceblue;
+    margin: auto;
+
+
+
+}
+#texto{
+color: aliceblue;
+
+
+}
+
+
+footer{
+display: flex;
+justify-content: center;
+gap:20px
+
+
+
+
+}
+hr{
+    width: 50%;
+    text-align: center;
+    border: lightgreen 1px solid;
+    margin-bottom: 10px;
+
+}
+span{
+    color: lightgreen;
+}
